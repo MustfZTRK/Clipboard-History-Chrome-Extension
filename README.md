@@ -78,7 +78,7 @@
 
 1. Clone or download this repository
    ```
-   git clone https://github.com/your-username/clipboard-history-extension.git
+   git clone https://github.com/MustfZTRK/Clipboard-History-Chrome-Extension.git
    ```
 2. Open Chrome and navigate to `chrome://extensions`
 3. Enable **Developer mode** (top right toggle)
