@@ -28,7 +28,7 @@
 
 1. Bu repoyu bilgisayarına klonla veya ZIP olarak indir
    ```
-   git clone https://github.com/kullanici-adi/clipboard-history-extension.git
+   git clone https://github.com/MustfZTRK/Clipboard-History-Chrome-Extension.git
    ```
 2. Chrome'da adres çubuğuna yaz: `chrome://extensions`
 3. Sağ üst köşeden **Geliştirici modu**nu aç
